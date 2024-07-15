@@ -1,5 +1,6 @@
 # Web Scraping Project: Books to Scrape
 This project is a web scraping exercise where I extracted data from the Books to Scrape website. The goal was to scrape book titles, prices, ratings, and availability from multiple pages of the website.
+link: https://books.toscrape.com/catalogue/page-1.html
 
 # Table of Contents
 1.Introduction
@@ -16,7 +17,11 @@ Clean and process the extracted data.
 Store the data in a CSV file for easy access and analysis.
 # Technologies Used
 1.Python
+
 2.BeautifulSoup
+
 3.Requests
+
 4.Pandas (for data processing)
+
 5.Jupyter Notebook (for development and testing)
